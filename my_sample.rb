@@ -1,2 +1,1 @@
-put "Hello World!"
-put "Hello Again"
+put "Hey World!"
